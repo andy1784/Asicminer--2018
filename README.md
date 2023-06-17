@@ -1,1 +1,1 @@
-# Asicminer--2018
+# QA testing team
